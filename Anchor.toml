@@ -1,0 +1,11 @@
+[registry]
+name = "npm"
+url = "https://registry.npmjs.org/"
+
+[provider]
+cluster = "Devnet"
+wallet = "~/.config/solana/id.json"
+
+[programs]
+regional_index = "RgxD3oZ5hGqNLuJAm9qK7qWjNdRq7vT8wXyZuCkLsMnV"
+rwipool = "RwaPooL111111111111111111111111111111111111"
